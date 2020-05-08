@@ -4,6 +4,7 @@
 ### The Multi Function Relay Module "Aurelius" Version V1.0 *INCLUDES*:
 - 12V to 5V regulator based AMS1117-5V.
 - 5V to 3.3V regulator based AMS1117-3.3V.
+- 8 Relays and their pins: COM, NC, NO.
 - 3.3V, 5V, GND output ports for external sensors, modules, etc.
 - Analog to Digital Converter output ports.
 - Digital output ports.
