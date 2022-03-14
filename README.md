@@ -9,7 +9,7 @@ Toplamda 8 adet röle kontrol imkanı sağlayan röle modülü Aurelius. Üzerin
 - Dijital Çıkış Portları.
 - Kullanıcı Dostu Açık Kaynak Donanımı.
 
-### 3D Görsel
+### 3D Görseller
 >![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/Aurelius3DTOP.png)
  
 >![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/Aurelius3D.png)
