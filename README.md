@@ -1,28 +1,26 @@
 # Aurelius
- The relay module has 8 relay based ATMega328P. Also has extra ports for external modules, sensors etc. Not just relay module or not just development board. It is Aurelius.
+Toplamda 8 adet röle kontrol imkanı sağlayan röle modülü Aurelius. Üzerinde barındırdığı pin çıkışları ve 8-bitlik AVR mikrodenetleyicisi sayesinde röle modülünden çok daha fazlası! SPI, I2C, UART protokollerine sahip harici donanımlarınızı ilgili konnektörlere bağlayarak tamamiyle uyumlu bir şekilde röle modülünüzü kullanabilirsiniz.
  
-### The Multi Function Relay Module "Aurelius" Version V1.0 *INCLUDES*:
-- 12V to 5V regulator based AMS1117-5V.
-- 5V to 3.3V regulator based AMS1117-3.3V.
-- 8 Relays and their pins: COM, NC, NO.
-- 3.3V, 5V, GND output ports for external sensors, modules, etc.
-- Analog to Digital Converter output ports.
-- Digital output ports.
-- User-Friendly open source hardware.
+### Çok Fonksiyonlu Röle Geliştirme Kartı "Aurelius" Version V1.0 *KARŞINIZDA*:
+- AMS1117-5V Tabanlı 12V-5V Dahili Voltaj Regülatörü.
+- AMS1117-3.3V Tabanlı 5V-3.3V Dahili Voltaj Regülatörü.
+- 3.3V, 5V, GND, I2C, SPI, UART, vb. Çıkış Portları.
+- Analog to Digital Dönüştürücüler İçin Konnektörler.
+- Dijital Çıkış Portları.
+- Kullanıcı Dostu Açık Kaynak Donanımı.
 
-### 3D Pictures
+### 3D Görsel
 >![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/Aurelius3DTOP.png)
  
 >![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/Aurelius3D.png)
  
  
- ### 2D Pictures (With-Without Polygon Pour)
+ ### 2D Görsel
 >![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/Aurelius2D.png)
 
->![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/Aurelius2DPour.jpg)
 
 
-### Schematics
+### Şematik
 >![discrption](https://raw.githubusercontent.com/dh1p-dev/Aurelius/master/AureliusSchematics.JPG)
  
 
